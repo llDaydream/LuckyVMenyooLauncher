@@ -5,3 +5,5 @@ Stellt sicher, dass alle Dateien im GTA5 Ordner, die von AltV zu *.renamed umben
 So muss das nicht von Hand gemacht werden.
 Beim ersten Start des Launchers wird nach den GTA 5 Pfad gefragt. Dieser muss beim ersten mal ausgewählt werden.
 Der Ausgewählte Pfad wird unter AppData/Roaming/LuckyVMenyooLauncher/config.txt abgelegt.
+
+FUNKTIONIERT AKTUELL NUR MIT DER STEAM VERSION !!!
